@@ -75,8 +75,6 @@ jupyter notebook
  │   ├── winequality-white.csv  
  │   └── winequality.names  
  ├── 📁 notebooks  
- │   ├── Wine_Quality_Analysis.ipynb  
- ├── 📁 src  
  │   ├── exploratory_analysis_and_preprocessing.ipynb  
  │   ├── machine_learning.ipynb  
  ├── README.md  
